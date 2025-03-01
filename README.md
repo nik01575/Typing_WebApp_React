@@ -2,6 +2,9 @@
 
 A simple typing test application built with React. This application helps users improve their typing speed and accuracy by providing random paragraphs to type within a set time limit.
 
+
+<img width="959" alt="Screenshot 2025-03-01 220638" src="https://github.com/user-attachments/assets/89e95d7a-b1ab-4bfc-b490-06e087f4969b" />
+
 ## Table of Contents
 
 - [Features](#features)
@@ -59,4 +62,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 Your Name - @Nikhil Raj - nikhil01575@gmail.com
 
-Project Link: https://github.com/yourusername/typing-test-app
+Project Link: reacttypingwebapp.netlify.app/
